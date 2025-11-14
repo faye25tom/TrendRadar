@@ -99,3 +99,11 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
+  - id: "hupu"
+    name: "虎扑"
+  - id: "zaobao"
+    name: "联合早报"
+  - id: "hackernews"
+    name: "科技新闻"
+  
+    
